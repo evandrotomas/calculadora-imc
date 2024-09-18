@@ -2,10 +2,8 @@
 <br>
 <br>
 <br>
-<a target="_blank" href="https://evandrotomas.github.io/calculadora-imc/">https://evandrotomas.github.io/Site-Mario/</a>
+<a href="https://evandrotomas.github.io/calculadora-imc/" target="_blank">https://evandrotomas.github.io/calculadora-imc/</a>
 <br>
 <br>
-<img src="https://github.com/evandrotomas/Site-Mario/blob/master/img/Desktop.png?raw=true"/>
-<br>
-<br>
-<img src="https://github.com/evandrotomas/Site-Mario/blob/master/img/Celular.png?raw=true"/>
+<img src="https://github.com/evandrotomas/calculadora-imc/blob/master/assets/calc-imc.png?raw=true"/>
+
